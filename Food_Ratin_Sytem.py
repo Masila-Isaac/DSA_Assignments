@@ -54,7 +54,4 @@ class FoodRatings:
                 return food
             heapq.heappop(heap)
 
-# Your FoodRatings object will be instantiated and called as such:
-# obj = FoodRatings(foods, cuisines, ratings)
-# obj.changeRating(food,newRating)
-# param_2 = obj.highestRated(cuisine)
+# ---- Test cases ----
